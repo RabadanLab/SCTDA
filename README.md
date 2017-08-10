@@ -1,4 +1,7 @@
 # scTDA
+
+### This fork is no longer maintained. Please visit [github.com/pcamara/scTDA](https://www.github.com/pcamara/scTDA) to install the latest version of scTDA.
+
 scTDA is an object oriented python library for topological data analysis of high-throughput single-cell RNA-seq
 data. It includes tools for the preprocessing, analysis, and exploration of single-cell RNA-seq data based on topological representations.
 
